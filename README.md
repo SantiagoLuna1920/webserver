@@ -1,3 +1,3 @@
-# TODO LIST
+# Configuracion webpack para proyectos personales
 
-App creada desde cero para afianzar conocimientos en javaScript, la presente aplicacion se trabajara con clases de javaScript, recuerden que esto es publico, si desean descargar o clonar la aplicacion recuerden que deben primero ejecutar ``` npm install ``` con esto se va a descarga las dependencias de desarrollador del package.json, luego de esto deberan ejecutar el ```npm run build``` para poder pasar los programas necesarios y pasen a distribucion para poder desplegarlo en algun host gratuito
+Esta es una configuracion para poder instalar webpack para futuros proyectos en html, css y javascript, para poder usar las configuraciones del webpack se deberan ejecutar los siguientes comandos en el orden establecido, para esto deberemos primero ejecutar ```npm install``` luego de esto, se debera ejecutar ```npm run build```
