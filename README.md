@@ -1,3 +1,3 @@
-#Webpack info
+# TODO LIST
 
-Para correr nuestro proyecto deberàs ejecutar dos comandos, los cuales son ``` npm install ``` y ``` npm run build ```
+App creada desde cero para afianzar conocimientos en javaScript, la presente aplicacion se trabajara con clases de javaScript, recuerden que esto es publico, si desean descargar o clonar la aplicacion recuerden que deben primero ejecutar ``` npm install ``` con esto se va a descarga las dependencias de desarrollador del package.json, luego de esto deberan ejecutar el ```npm run build``` para poder pasar los programas necesarios y pasen a distribucion para poder desplegarlo en algun host gratuito
