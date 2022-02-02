@@ -61,7 +61,7 @@ module.exports = {
 
     plugins: [
         new HtmlWebpack({
-            title: 'Mi Webpack App',
+            // title: 'Mi Webpack App',
             // filename: 'index.html',
             template: './src/index.html'
         }),
@@ -71,11 +71,11 @@ module.exports = {
             ignoreOrder: false
         }),
 
-        new CopyPlugin({
-            patterns: [
-                { from: 'src/assets/', to: 'assets/' }
-            ]
-        })
+        // new CopyPlugin({
+        //     patterns: [
+        //         { from: 'src/assets/', to: 'assets/' }
+        //     ]
+        // })
     ]
 }
 
